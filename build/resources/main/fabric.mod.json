@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "placeable",
-  "version": "${version}",
+  "version": "1.0.0",
   "name": "Placeable",
   "description": "Allow to place vegetation on top of almost all blocks.",
   "authors": [

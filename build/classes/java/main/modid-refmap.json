@@ -1,0 +1,130 @@
+{
+  "mappings": {
+    "it/bisumto/placeable/mixin/BambooBlockMixin": {
+      "canPlaceAt": "Lnet/minecraft/class_2211;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+      "getPlacementState": "Lnet/minecraft/class_2211;method_9605(Lnet/minecraft/class_1750;)Lnet/minecraft/class_2680;",
+      "randomTick": "Lnet/minecraft/class_2211;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/BambooSaplingBlockMixin": {
+      "canPlaceAt": "Lnet/minecraft/class_2202;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+      "randomTick": "Lnet/minecraft/class_2202;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/BigDripleafBlockMixin": {
+      "canPlaceAt": "Lnet/minecraft/class_5801;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z"
+    },
+    "it/bisumto/placeable/mixin/BigDripleafSteamBlockMixin": {
+      "canPlaceAt": "Lnet/minecraft/class_5802;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z"
+    },
+    "it/bisumto/placeable/mixin/CactusBlockMixin": {
+      "canPlaceAt": "Lnet/minecraft/class_2266;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+      "randomTick": "Lnet/minecraft/class_2266;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/CocoaBlockMixin": {
+      "canPlaceAt": "Lnet/minecraft/class_2282;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+      "randomTick": "Lnet/minecraft/class_2282;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/CropBlockMixin": {
+      "randomTick": "Lnet/minecraft/class_2302;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/DeadBushBlockMixin": {
+      "canPlantOnTop": "Lnet/minecraft/class_2311;method_9695(Lnet/minecraft/class_2680;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;)Z"
+    },
+    "it/bisumto/placeable/mixin/MushroomPlantBlockMixin": {
+      "canPlaceAt": "Lnet/minecraft/class_2420;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+      "randomTick": "Lnet/minecraft/class_2420;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/NetherWartBlockMixin": {
+      "randomTick": "Lnet/minecraft/class_2421;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/PitcherCropBlockMixin": {
+      "randomTick": "Lnet/minecraft/class_8237;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/PlantBlockMixin": {
+      "canPlaceAt": "Lnet/minecraft/class_2261;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z"
+    },
+    "it/bisumto/placeable/mixin/PropaguleBlockMixin": {
+      "randomTick": "Lnet/minecraft/class_7115;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/SaplingBlockMixin": {
+      "randomTick": "Lnet/minecraft/class_2473;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/SmallDripleafBlockMixin": {
+      "canPlaceAt": "Lnet/minecraft/class_5808;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z"
+    },
+    "it/bisumto/placeable/mixin/StemBlockMixin": {
+      "randomTick": "Lnet/minecraft/class_2513;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/SugarCaneBlockMixin": {
+      "canPlaceAt": "Lnet/minecraft/class_2523;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+      "randomTick": "Lnet/minecraft/class_2523;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "it/bisumto/placeable/mixin/SweetBerryBushBlockMixin": {
+      "randomTick": "Lnet/minecraft/class_3830;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "it/bisumto/placeable/mixin/BambooBlockMixin": {
+        "canPlaceAt": "Lnet/minecraft/class_2211;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+        "getPlacementState": "Lnet/minecraft/class_2211;method_9605(Lnet/minecraft/class_1750;)Lnet/minecraft/class_2680;",
+        "randomTick": "Lnet/minecraft/class_2211;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/BambooSaplingBlockMixin": {
+        "canPlaceAt": "Lnet/minecraft/class_2202;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+        "randomTick": "Lnet/minecraft/class_2202;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/BigDripleafBlockMixin": {
+        "canPlaceAt": "Lnet/minecraft/class_5801;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z"
+      },
+      "it/bisumto/placeable/mixin/BigDripleafSteamBlockMixin": {
+        "canPlaceAt": "Lnet/minecraft/class_5802;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z"
+      },
+      "it/bisumto/placeable/mixin/CactusBlockMixin": {
+        "canPlaceAt": "Lnet/minecraft/class_2266;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+        "randomTick": "Lnet/minecraft/class_2266;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/CocoaBlockMixin": {
+        "canPlaceAt": "Lnet/minecraft/class_2282;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+        "randomTick": "Lnet/minecraft/class_2282;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/CropBlockMixin": {
+        "randomTick": "Lnet/minecraft/class_2302;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/DeadBushBlockMixin": {
+        "canPlantOnTop": "Lnet/minecraft/class_2311;method_9695(Lnet/minecraft/class_2680;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;)Z"
+      },
+      "it/bisumto/placeable/mixin/MushroomPlantBlockMixin": {
+        "canPlaceAt": "Lnet/minecraft/class_2420;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+        "randomTick": "Lnet/minecraft/class_2420;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/NetherWartBlockMixin": {
+        "randomTick": "Lnet/minecraft/class_2421;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/PitcherCropBlockMixin": {
+        "randomTick": "Lnet/minecraft/class_8237;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/PlantBlockMixin": {
+        "canPlaceAt": "Lnet/minecraft/class_2261;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z"
+      },
+      "it/bisumto/placeable/mixin/PropaguleBlockMixin": {
+        "randomTick": "Lnet/minecraft/class_7115;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/SaplingBlockMixin": {
+        "randomTick": "Lnet/minecraft/class_2473;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/SmallDripleafBlockMixin": {
+        "canPlaceAt": "Lnet/minecraft/class_5808;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z"
+      },
+      "it/bisumto/placeable/mixin/StemBlockMixin": {
+        "randomTick": "Lnet/minecraft/class_2513;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/SugarCaneBlockMixin": {
+        "canPlaceAt": "Lnet/minecraft/class_2523;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+        "randomTick": "Lnet/minecraft/class_2523;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "it/bisumto/placeable/mixin/SweetBerryBushBlockMixin": {
+        "randomTick": "Lnet/minecraft/class_3830;method_9514(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      }
+    }
+  }
+}
